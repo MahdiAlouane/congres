@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Jul-2017
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	TN:::34.00:9.00:v4
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	TN:::34.00:9.00:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Jul-2017
+es.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Jul-2017
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Jul-2017
+.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	17-Jul-2017
+de.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Jul-2017
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	17-Jul-2017
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	dhofq5qmej7mkfhd5hrf2sv41qb53pt9
+en.wikipedia.org	TRUE	/	FALSE	1999999999	forceHTTPS	true
+
